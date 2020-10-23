@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentDBDemo</string>
+
+    <string-array name="gender">
+
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>FeMale</item>
+        <item>Others</item>
+    </string-array>
+</resources>
